@@ -6,9 +6,11 @@ Random number generation
 User input validation
 High/low hints for guesses
 Simple and clean UI
+
 Technologies Used:
 JavaScript/Node.js
 Playwright (for testing)
+
 How to Play:
 Enter a number between 1 and 100.
 The system will tell you whether your guess is too high, too low, or correct.
